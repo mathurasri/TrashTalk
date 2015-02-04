@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrashTalk</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="facebook_app_id">1598150887070304</string>
+    <string name="submit">Submit</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="username">UserName</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_username">Forgot Username?</string>
+    <string name="signup">Sign Up</string>
+    <string name="facebook_login">Login with Facebook</string>
+    <string name="facebook_logout">Logout from Facebook</string>
+    <string name="twitter_login">Login with Twitter</string>
+    <string name="title_activity_user_area">UserArea</string>
+    <string name="email">Email</string>
+    <string name="title_activity_user_space">UserSpace</string>
+
+</resources>
